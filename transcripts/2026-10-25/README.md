@@ -6,7 +6,8 @@
 
 | 文件 | 说明 | 来源 |
 |------|------|------|
-| `LIVE8-传统企业做FDE-obcnxx8d498611x42m8j7w3e-逐字稿全文.md` | LIVE #8 完整逐字稿（约 1h38） | https://bytedance.larkoffice.com/minutes/obcnxx8d498611x42m8j7w3e |
+| `LIVE8-传统企业做FDE-obcnxx8d498611x42m8j7w3e-逐字稿全文.md` | LIVE #8 完整逐字稿（约 1h38，~94KB / 607 行含 frontmatter） | https://bytedance.larkoffice.com/minutes/obcnxx8d498611x42m8j7w3e |
+| `LIVE8-传统企业做FDE-obcnxx8d498611x42m8j7w3e-提炼.md` | 基于妙记官方 summary + chapters 的蒸馏版（全文入库后追加） | 同上 |
 
 ## 2026-10-25 上午自有上传复查
 
@@ -23,4 +24,4 @@
 1. 先提交并推送「逐字稿全文」
 2. 全文入库后再写并推送「提炼」版（`*-提炼.md`）
 
-请勿对本仓库触发录音豆上传；分析/提炼仅基于已导出全文。
+请勿对本仓库触发录音豆上传；分析/提炼仅基于已导出全文与妙记官方 summary/chapters。
